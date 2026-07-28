@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nathalierisser.github.io/AouenArtsInternesPerrosGuirec/sitemap.xml

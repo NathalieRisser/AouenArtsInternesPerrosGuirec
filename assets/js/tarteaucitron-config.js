@@ -1,4 +1,4 @@
-        <script type="text/javascript">
+       
         tarteaucitron.init({
     	  "privacyUrl": "pages/politiqueConf.html", /* Url de la politique de confidentialité */
           "bodyPosition": "top", /* top place le bandeau de consentement au début du code html, mieux pour l'accessibilité */
@@ -60,4 +60,4 @@
         });
 	(tarteaucitron.job = tarteaucitron.job || []).push('goatcounter');	
 		
-        </script>
+     

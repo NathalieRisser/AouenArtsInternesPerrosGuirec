@@ -54,7 +54,7 @@ window.addEventListener("DOMContentLoaded", () => {
 					` ◆ ${texte} &nbsp;&nbsp;&nbsp◆`
 			} else {
 				newsText.textContent =
-					"Aucun événement prévu pour le moment à par les cours.";
+					"Aucun événement prévu pour le moment à part les cours.";
 			}
 		});
 
